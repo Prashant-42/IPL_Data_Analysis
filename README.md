@@ -1,4 +1,4 @@
-<img width="642" height="2268" alt="image" src="https://github.com/user-attachments/assets/97a9fb43-80ad-41ae-9619-34a893305d9f" />🏏 IPL Data Analysis
+🏏 IPL Data Analysis
 This project analyzes Indian Premier League (IPL) cricket data to uncover valuable insights about teams, players, matches, and overall tournament performance.
 
 Using Python and data analysis libraries, the project explores:
